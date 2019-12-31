@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    <i>{{ layout.city }}, {% assign m = page.date | date: "%-m" %}
+    <i>{{ page.city }}, {% assign m = page.date | date: "%-m" %}
 {{ page.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}Januari
