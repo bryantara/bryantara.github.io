@@ -4,13 +4,13 @@ title: Tentang Aku
 permalink: /about/
 ---
 
-Hai, namaku Fauzan Bryantara. Aku berasal dari Temanggung, sebuah kabupaten di Jawa Tengah. Jika kamu pergi dari Yogyakarta ke Semarang melalui jalur darat, kemungkinan besar kamu akan melewatinya. Temanggung ada di pertengahan keduanya, lebih tepatnya, ada di tengah-tengah pulau Jawa. Aku menghabisakan masa kecilku di sana. Setamat SMA, aku lalu pergi merantau ke Bandung.
+Hai, namaku Fauzan Bryantara. Aku berasal dari Temanggung, sebuah kabupaten di Jawa Tengah. Jika kamu pergi dari Yogyakarta ke Semarang melalui jalur darat, kemungkinan besar kamu akan melewatinya. Temanggung ada di pertengahan keduanya, lebih tepatnya, ada di tengah-tengah pulau Jawa. Aku menghabisakan masa kecilku di sana. Setamat SMA, aku lalu pergi merantau ke Bandung. Berkuliah di kota kembang itu.
 
 ### Tentang bryantara.com
 
-Aku menulis di blog ini untuk bercerita apa saja. Mungkin aku akan bercerita tentang hobiku berlari. Di lain waktu, bisa saja aku menulis tentang teknologi... atau kapan-kapan tentang ekonomi. 
+Aku menulis di blog ini untuk bercerita apa saja. Mungkin tentang hobiku berlari. Di lain waktu, bisa saja aku menulis seputar teknologi... atau kapan-kapan perihal ekonomi. 
 
-Sebetulnya, aku sudah membeli domain bryantara.com ini sejak tahun 2008, lebih dari sepuluh tahun yang lalu. Wah lama juga ya. Namun, sempat juga berganti kepemilikan. Maklum, dulu pernah tak punya uang untuk memperpanjang biaya sewa. 
+Sebetulnya, aku sudah membeli domain bryantara.com ini sejak tahun 2008, lebih dari sepuluh tahun yang lalu. Wah lama juga ya. Namun, sempat juga berganti kepemilikan. Maklum, dulu pernah tak punya uang untuk memperpanjang biaya domain. 
 
 ### Kontak
 
