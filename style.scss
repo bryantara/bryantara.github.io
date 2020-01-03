@@ -198,7 +198,7 @@ img {
   font-family: 'Open Sans', $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
-  letter-spacing:-0.072px;
+  letter-spacing:-0.11px;
 }
 
 .site-description {
@@ -213,7 +213,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 14px; // @TODO: Vertically middle align
+  margin-top: 13px; // @TODO: Vertically middle align
   font-family: 'Open Sans', $helveticaNeue;
   font-size: 18px;
   color: $gray;
