@@ -19,7 +19,8 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 'Merriweather', $georgia, serif, $helvetica;
+  font: 19px/1.45 $georgia, serif;
+  line-height: 25px;
   color: $darkGray;
 }
 
