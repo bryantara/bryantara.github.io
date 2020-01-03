@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Open Sans', $helveticaNeue, sans-serif;
   color: $darkerGray;
   font-weight: bold;
-
+  letter-spacing:-0.072px;
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -198,6 +198,7 @@ img {
   font-family: 'Open Sans', $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
+  letter-spacing:-0.072px;
 }
 
 .site-description {
@@ -231,8 +232,7 @@ nav {
     color: $darkGray;
     text-align: right;
     font-weight: 300;
-    letter-spacing: 1px;
-
+    letter-spacing:-0.072px;
     @include mobile {
       margin: 0 10px;
       color: $blue;
