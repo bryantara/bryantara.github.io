@@ -13,6 +13,8 @@ Aku menulis di blog ini untuk bercerita apa saja. Mungkin tentang hobiku berlari
 
 Sebetulnya, aku sudah membeli domain bryantara.com ini sejak tahun 2008, lebih dari sepuluh tahun yang lalu. Namun, sempat pula berganti kepemilikan. Maklum, dulu pernah tak punya uang untuk memperpanjang biaya domain. 
 
+Blog ini dihosting di [GitHub Pages](https://pages.github.com/) dan memakai generator statik [Jekyll Now](https://www.jekyllnow.com/).
+
 ### Kontak
 Aku rutin mengecek surat elektronikku. Layangkan saja pesanmu ke bryantara -at- live.com jika ingin bertukar sapa. 
 
