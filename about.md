@@ -6,7 +6,7 @@ permalink: /about/
 
 Hai, namaku Fauzan Bryantara. Aku berasal dari Temanggung, sebuah kabupaten di Jawa Tengah. Jika kamu pergi dari Yogyakarta ke Semarang melalui jalur darat, kemungkinan besar akan melewatinya. Temanggung ada di pertengahan keduanya, lebih tepatnya, ada di tengah-tengah pulau Jawa. Aku menghabisakan masa kecilku di sana. 
 
-Setamat SMA, aku pergi merantau ke Bandung untuk berkuliah. Di kota kembang itu pula, aku bertemu dengan seorang wanita yang kutaksir secara diam-diam. Di kemudian hari, ia menjadi teman hidupku.
+Setamat SMA, aku pergi merantau ke Bandung untuk berkuliah. Di kota kembang itulah aku bertemu dengan seorang wanita yang di kemudian hari bersedia menjadi pendamping hidupku.
 
 ### Tentang bryantara.com
 
