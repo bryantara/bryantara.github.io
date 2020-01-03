@@ -16,5 +16,7 @@ Sebetulnya, aku sudah membeli domain bryantara.com ini sejak tahun 2008, lebih d
 ### Kontak
 Aku rutin mengecek surat elektronikku. Layangkan saja pesanmu ke bryantara -at- live.com jika ingin bertukar sapa. 
 
-Tabik,\
+
+Salam,
+
 Fauzan Bryantara
