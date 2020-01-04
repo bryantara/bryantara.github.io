@@ -66,18 +66,23 @@ h4 {
   color: $gray;
 }
 
-p {
-  margin: 15px 0;
-}
-
 a {
-  color: $blue;
+  color: #cd2653;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
 }
+
+
+p {
+  margin: 15px 0;
+  a {
+    color: #cd2653;
+    text-decoration: underline;}
+}
+
 
 ul, ol {
   margin: 15px 0;
@@ -231,7 +236,7 @@ nav {
     margin-left: 20px;
     color: #cd2653;
     text-align: right;
-    font-weight: 300;
+    font-weight: bold;
     letter-spacing:-0.072px;
     @include mobile {
       margin: 0 10px;
