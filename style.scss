@@ -196,9 +196,9 @@ img {
   color: $black;
   cursor: pointer;
   font-family: 'Open Sans', $helveticaNeue;
-  font-weight: 300;
+  font-weight: bold;
   font-size: 28px;
-  letter-spacing:-0.11px;
+  letter-spacing:-0.5px;
 }
 
 .site-description {
@@ -276,9 +276,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #d5cdb9;
-  border-bottom: 1px solid #ddd;
-  background-color: #f3e6c5;
+  border-top: 1px solid #6c401380;
+  border-bottom: 1px solid #6c401380;
+  background-color: #f7e5d4;
 }
 
 footer {
