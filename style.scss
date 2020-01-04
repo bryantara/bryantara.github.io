@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background: #fefaf5;
   font: 19px/1.45 $georgia, serif;
   letter-spacing:-0.072px;
   line-height: 29px;
@@ -193,10 +193,10 @@ img {
 
 .site-name {
   margin: 0;
-  color: $gray;
+  color: $black;
   cursor: pointer;
   font-family: 'Open Sans', $helveticaNeue;
-  font-weight: 300;
+  font-weight: bold;
   font-size: 28px;
   letter-spacing:-0.11px;
 }
@@ -216,7 +216,7 @@ nav {
   margin-top: 13px; // @TODO: Vertically middle align
   font-family: 'Open Sans', $helveticaNeue;
   font-size: 18px;
-  color: $gray;
+  color: #704010;
 
 
   @include mobile {
@@ -224,18 +224,18 @@ nav {
     margin-top: 9px;
     display: block;
     font-size: 16px;
-    color: $gray;
+    color: #704010;
   }
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #704010;
     text-align: right;
     font-weight: 300;
     letter-spacing:-0.072px;
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: #704010;
     }
   }
 }
