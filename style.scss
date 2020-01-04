@@ -70,8 +70,8 @@ h4 {
 p {
   margin: 15px 0;
 	a {
-  		color: #704010;
-		text-decoration: underline;}
+  	   color: #704010;
+	   text-decoration: underline;}
 }
 
 
@@ -80,10 +80,9 @@ p {
 
 a {
   color: #704010;
-  text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #704010;
+    color: $black;
     text-decoration: none;
   }
 }
@@ -166,7 +165,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #fcebd6;
 
   @include mobile {
     text-align: center;
