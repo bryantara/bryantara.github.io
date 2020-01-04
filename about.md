@@ -4,7 +4,9 @@ title: Tentang Aku
 permalink: /about/
 ---
 
-Hai, namaku Fauzan Bryantara. Aku menghabiskan masa kecilku di Temanggung, sebuah kabupaten di Jawa Tengah. Jika kamu pergi dari Yogyakarta ke Semarang melalui jalur darat, kemungkinan besar akan melewatinya. Setamat SMA, aku pergi merantau ke Bandung untuk berkuliah. Selain memperoleh ilmu, aku juga bertemu dengan seorang gadis di kota kembang itu. Di kemudian hari, ia bersedia menjadi pendamping hidupku.
+Hai, namaku Fauzan Bryantara. Aku menghabiskan masa kecilku di Temanggung, sebuah kabupaten di Jawa Tengah. Jika kamu pergi dari Yogyakarta ke Semarang melalui jalur darat, kemungkinan besar akan melewatinya.  
+
+Setamat SMA, aku pergi merantau ke Bandung untuk berkuliah. Selain memperoleh ilmu, aku juga bertemu dengan seorang gadis di kota kembang itu. Di kemudian hari, ia bersedia menjadi pendamping hidupku.
 
 ### Tentang bryantara.com
 Aku menulis di blog ini untuk bercerita apa saja. Mungkin tentang hobiku berlari. Di lain waktu, bisa saja aku menulis seputar teknologi... atau kapan-kapan perihal ekonomi. 
