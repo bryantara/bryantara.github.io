@@ -69,11 +69,18 @@ h4 {
 
 p {
   margin: 15px 0;
+	a {
+  		color: #704010;
+		text-decoration: none;}
 }
+
+
+
+
 
 a {
   color: #704010;
-  text-decoration: underline;
+  text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
     color: #704010;
