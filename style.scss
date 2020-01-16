@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: #fefaf5;
+	background: #fff;
   font: 18px/1.4 $georgia, serif;
   letter-spacing:-0.072px;
   line-height: 29px;
@@ -67,7 +67,7 @@ h4 {
 }
 
 a {
-  color: #cd2653;
+  color: #2e908f;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -80,7 +80,7 @@ a {
 p {
   margin: 15px 0;
   a {
-    color: #cd2653;
+    color: #2e908f;
     text-decoration: underline;}
 }
 
@@ -222,7 +222,7 @@ nav {
   margin-top: 13px; // @TODO: Vertically middle align
   font-family: 'Open Sans', $helveticaNeue;
   font-size: 18px;
-  color: #cd2653;
+  color: #2e908f;
 
 
   @include mobile {
@@ -230,18 +230,18 @@ nav {
     margin-top: 9px;
     display: block;
     font-size: 16px;
-    color: #cd2653;
+    color: #2e908f;
   }
 
   a {
     margin-left: 20px;
-    color: #cd2653;
+    color: #2e908f;
     text-align: right;
     font-weight: bold;
     letter-spacing:-0.072px;
     @include mobile {
       margin: 0 10px;
-      color: #cd2653;
+      color: #2e908f;
     }
   }
 }
@@ -282,14 +282,14 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #6c401380;
-  border-bottom: 1px solid #6c401380;
-  background-color: #f7e5d4;
+  border-top: 1px solid #2e908f;
+  background-color: #014158;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
+  font-color: #dbebeb;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
