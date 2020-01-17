@@ -199,7 +199,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $black;
+  color: #c00;
   cursor: pointer;
   font-family: 'Open Sans', $helveticaNeue;
   font-weight: bold;
@@ -222,7 +222,7 @@ nav {
   margin-top: 13px; // @TODO: Vertically middle align
   font-family: 'Open Sans', $helveticaNeue;
   font-size: 18px;
-  color: #c00;
+  color: $black;
 
 
   @include mobile {
@@ -230,18 +230,18 @@ nav {
     margin-top: 9px;
     display: block;
     font-size: 16px;
-    color: #c00;
+    color: $black;
   }
 
   a {
     margin-left: 20px;
-    color: #c00;
+    color: $black;
     text-align: right;
     font-weight: bold;
     letter-spacing:-0.072px;
     @include mobile {
       margin: 0 10px;
-      color: #c00;
+      color: $black;
     }
   }
 }
