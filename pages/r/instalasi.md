@@ -10,4 +10,4 @@ Instalasi R di Ubuntu cukup mudah. Cukup ketikkan perintah berikut di terminal:
 
 Jika R berhasil terinstal, ketik huruf R di terminal. Nanti akan muncul seperti ini.
 
-<img src="{{ site.baseurl }}/images/r-instal.png" alt="Instalasi R berhasil"/>
+![Instalasi R berhasil](/images/r-instal.png)
