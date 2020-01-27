@@ -12,9 +12,9 @@ Jika R berhasil terinstal, ketik huruf R di terminal. Nanti akan muncul seperti 
 
 ![Instalasi R berhasil](/images/r-instal.png)
 
-Apabila dirasa cukup nyaman menjalankan R melalui terminal, instalasi cukup dilakukan sampai sini. Namun, jika lebih suka menjalankannya lewat [Graphical User Inter Interface (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface), maka perlu memasang aplikasi tambahan bernama RStudio.
+Apabila dirasa cukup nyaman menjalankan R melalui terminal, instalasi cukup dilakukan sampai sini. Namun, jika lebih suka menjalankannya lewat [_Graphical User Inter Interface_ (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface), maka perlu memasang aplikasi tambahan bernama RStudio.
 
-File instalasi RStudio dapat diunduh [di sini](https://rstudio.com/products/rstudio/download/#download). Pilih versi Ubuntu yang digunakan. Jika sudah diunduh, klik dua kali file .deb tersebut. Kemudian klik _Install_ pada jendela yang muncul. Selesai.
+File instalasi RStudio dapat diunduh [di sini](https://rstudio.com/products/rstudio/download/#download). Pilih versi Ubuntu yang digunakan. Jika sudah diunduh, klik dua kali file .deb hasil unduhan tersebut. Kemudian klik _Install_ pada jendela yang muncul. Selesai.
 
 ![Tampilan RStudio](/images/rstudio.png)
 
