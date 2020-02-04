@@ -4,6 +4,7 @@ title: Fauzan Bryantara
 permalink: /tentang/
 ---
 
+<img align="right" src="/images/h.png">
 Hai, salam kenal. Namaku Fauzan Bryantara. Aku menghabiskan masa kecilku di Temanggung, sebuah kabupaten di Jawa Tengah. Setamat SMA, aku pergi merantau ke Bandung untuk berkuliah. Selain memperoleh ilmu, aku juga bertemu dengan seorang gadis di kota kembang itu. Di kemudian hari, ia bersedia menjadi pendamping hidupku.
 
 ### Sekilas bryantara.com
