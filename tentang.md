@@ -10,7 +10,7 @@ Hai, salam kenal. Namaku Fauzan Bryantara. Aku menghabiskan masa kecilku di Tema
 ### Sekilas bryantara.com
 Aku menulis di blog bryantara.com ini untuk bercerita apa saja. Mungkin tentang hobiku berlari. Di lain waktu, bisa saja aku menulis soal teknologi atau kapan-kapan tentang ekonomi. 
 
-<img align="left" src="/images/kompi.png">Sebetulnya, aku sudah membeli domain bryantara.com ini sejak tahun 2008, lebih dari sepuluh tahun yang lalu. Namun, sempat pula berganti kepemilikan. Maklum, dulu pernah tak punya uang untuk memperpanjang biaya domain. 
+<img src="/images/kompi.png" style="padding-right: 10px; float: left;">Sebetulnya, aku sudah membeli domain bryantara.com ini sejak tahun 2008, lebih dari sepuluh tahun yang lalu. Namun, sempat pula berganti kepemilikan. Maklum, dulu pernah tak punya uang untuk memperpanjang biaya domain. 
 
 Blog ini dihosting di [GitHub Pages](https://pages.github.com/) dan menggunakan generator website statik [Jekyll Now](https://www.jekyllnow.com/).
 
