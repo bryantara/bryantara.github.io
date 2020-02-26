@@ -2,7 +2,7 @@
 layout: page
 permalink: /kanal/
 ---
-Halo, selamat datang di bryantara.com! Blog ini berisi tiga kanal utama: kumpulan esai, resensi buku, dan pengolahan data. Selamat menikmati ☕
+Halo, selamat datang di bryantara.com! Blog ini memiliki tiga kanal utama, yaitu kumpulan esai, resensi buku, dan pengolahan data. Selamat menikmati ☕
 
 ***
 
