@@ -14,6 +14,6 @@ Sekarang saya juga sedang belajar masak. Lebih tepatnya bantuin istri. Lewat mem
 
 Oh iya, saya pernah belajar teknik dan kini sedang belajar ekonomi. _Nggak nyambung_ ya? Hihi. Sebagian orang yang saya temui juga bilang demikian.
 
-Mungkin sekian dulu perkenalan dari saya. Jika mau bertukar sapa, hubungi saya di bryantara -at- live.com ya.
+Mungkin sekian dulu perkenalan dari saya. Jika mau bertukar sapa, hubungi saya di bryantara -at- live.com ya. Terima kasih sudah berkunjung.
 
 Tabik,  <br/>Fauzan Bryantara
