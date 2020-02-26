@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: post
 title: Instalasi R di Ubuntu
-permalink: /r/instalasi
+categories: data
+city: Depok
 ---
 
 Instalasi R di Ubuntu cukup mudah. Tinggal ketikkan perintah berikut di terminal:
@@ -19,4 +20,3 @@ File instalasi RStudio dapat diunduh [di sini](https://rstudio.com/products/rstu
 ![Tampilan RStudio](/images/rstudio.png)
 
 Tampilan RStudio yang sudah diinstal.
-
