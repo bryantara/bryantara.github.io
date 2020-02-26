@@ -18,4 +18,4 @@ Oh iya, saya pernah belajar teknik dan kini sedang belajar ekonomi. _Nggak nyamb
 
 Mungkin sekian dulu perkenalan dari saya. Jika mau bertukar sapa, hubungi saya di bryantara -at- live.com ya.
 
-Tabik,  Fauzan Bryantara
+Tabik,  <br/>Fauzan Bryantara
