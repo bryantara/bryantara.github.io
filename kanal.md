@@ -6,10 +6,12 @@ Halo, selamat datang di bryantara.com! Blog ini berisi tiga kanal utama: kumpula
 
 ***
 
-<h3>Artikel Baru</h3>
-            {% for post in site.related_posts limit:3 %}
-                  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
+<h3>3 Artikel Baru</h3>
+<ul class="related_posts">
+  {% for post in site.related_posts limit: 3 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 
 ***
 
