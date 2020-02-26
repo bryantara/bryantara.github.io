@@ -3,7 +3,7 @@ layout: post
 title: Metamorphosis
 city: Depok
 ---
-Bagaimana jika saat bangun tidur tubuhmu berubah menjadi seekor serangga raksasa yang menakutkan? Itulah sepenggal kisah yang diangkat oleh penulis Franz Kafka dalam novelnya yang berjudul Metamorphosis ini. 
+Bagaimana jika saat bangun tidur tubuhmu berubah menjadi seekor serangga raksasa yang menakutkan? Itulah sepenggal kisah yang diangkat oleh penulis Franz Kafka dalam novelnya yang berjudul [Metamorphosis](https://www.goodreads.com/book/show/485894.The_Metamorphosis) ini. 
 
 Alkisah, ada seorang _salesman_ di suatu perusahaan. Gregor Samsa namanya. Gregor adalah tulang punggung di keluarganya. Menjadi satu-satunya pencari nafkah.
 
