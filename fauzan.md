@@ -10,7 +10,7 @@ Peluit kami saat itu cuma satu: azan maghrib. Kadang kami juga menyudahi permain
 
 Soal makanan, saya tidak pilih-pilih. Namun, ngiler juga kalau dimasakin tongseng atau brongkos oleh ibu saya. Sebuah kenikmatan yang hakiki. _Hmmm..._
 
-Sekarang saya juga sedang belajar masak. Lebih tepatnya bantuin istri. Lewat memasak, saya jadi lebih menghargai makanan. Ternyata, proses dari meracik bumbu hingga makanan siap dihidangkan itu tak semudah membuat mie instan.
+Sekarang saya juga sedang belajar masak. Lebih tepatnya ikut bantuin istri. Lewat memasak, saya jadi lebih menghargai makanan. Ternyata, proses dari meracik bumbu hingga makanan siap dihidangkan itu tak semudah membuat mie instan.
 
 Oh iya, saya pernah belajar teknik dan kini sedang belajar ekonomi. _Nggak nyambung_ ya? Hihi. Sebagian orang yang saya temui juga bilang demikian.
 
