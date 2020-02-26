@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Metamorphosis
+categories: buku
 city: Depok
 ---
 Bagaimana jika saat bangun tidur tubuhmu berubah menjadi seekor serangga raksasa yang menakutkan? Itulah sepenggal kisah yang diangkat oleh penulis Franz Kafka dalam novelnya yang berjudul [Metamorphosis](https://www.goodreads.com/book/show/485894.The_Metamorphosis) ini. 
