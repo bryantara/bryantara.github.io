@@ -24,7 +24,9 @@ Kepala kepegawaian yang tadinya ingin bertemu, tiba-tiba berubah pikiran. Ia men
 Sejak saat itu, keluarga Gregor juga ketakutan menemuinya. Mereka membiarkan Gregor berada di kamarnya. Tanpa berbincang-bincang sedikitpun. Bahkan, Gregor merasa keberadaan dirinya kini tak dianggap lagi.
 
 Bagaimanakah kehidupan Gregor dan keluarganya setelah ia berubah? Sanggupkah mereka menghadapi cobaan hidup yang berat itu?
+
 ***
+
 Membaca novel Kafka, membuat saya berpikir ulang tentang kehidupan. Misalnya, apakah kita akan memperlakukan orang lain seperti peribahasa 'habis manis sepah dibuang'?
 
 Menurut saya, ritme buku ini cukup lambat. Mungkin karena lokasi jalan cerita hanya di dalam rumah saja. Meski begitu, penulis nampak lihai menggambarkan detail ceritanya.
