@@ -4,6 +4,11 @@ permalink: /kanal/
 ---
 Halo, selamat datang di bryantara.com! Blog ini berisi tiga kanal utama: kumpulan esai, resensi buku, dan pengolahan data. Selamat menikmati ☕
 
+<h3>3 Terbaru</h3>
+{% for post in site.posts limit:3 %}  
+  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>  
+{% endfor %}
+
 <h3>Kumpulan Esai</h3>
 {% for post in site.categories.esai %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
