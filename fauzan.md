@@ -4,7 +4,9 @@ title: Fauzan Bryantara
 permalink: /fauzan/
 ---
 
-Halo salam kenal. Nama saya Fauzan Bryantara. Saat kecil, saya gemar bermain bola. Hampir tiap sore saya dan teman-teman menggiring si kulit bundar itu di sebuah lapangan kecil di kampung kami. 
+<img src="https://66.media.tumblr.com/avatar_dea2ae3ffe9b_128.pnj"
+     alt="vice president"
+     align="right" width="100px"/>Halo salam kenal. Nama saya Fauzan Bryantara. Saat kecil, saya gemar bermain bola. Hampir tiap sore saya dan teman-teman menggiring si kulit bundar itu di sebuah lapangan kecil di kampung kami. 
 
 Peluit kami saat itu cuma satu: azan maghrib. Kadang kami juga menyudahi permainan kalau personelnya berkurang satu per satu -- disuruh mandi oleh orang tua kami. Saat ini, saya lebih sering berolah raga lari.
 
