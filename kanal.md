@@ -2,9 +2,9 @@
 layout: page
 permalink: /kanal/
 ---
-![Gunung Batu, Lembang](https://raw.githubusercontent.com/bryantara/bryantara.github.io/master/images/gunung-batu-lembang.jpg)
-
 Halo, selamat datang di bryantara.com! Blog ini memiliki tiga kanal utama, yaitu kumpulan esai, resensi buku, dan pengolahan data. Selamat menikmati ☕
+
+![Gunung Batu, Lembang](https://raw.githubusercontent.com/bryantara/bryantara.github.io/master/images/gunung-batu-lembang.jpg)
 
 <h3>Kumpulan Esai</h3>
 {% for post in site.categories.esai %}
