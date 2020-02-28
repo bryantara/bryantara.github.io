@@ -1,0 +1,7 @@
+---
+layout: page
+permalink: /latest/
+---
+
+{% for post in site.related_posts limit:5 %}
+{% endfor %}
