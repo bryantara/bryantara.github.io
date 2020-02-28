@@ -55,21 +55,21 @@ h1 {
     color: inherit;
   }
     @include mobile {
-    font-size: 23px;
+    font-size: 20px;
   }
 }
 
 h2 {
   font-size: 24px;
     @include mobile {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
 h3 {
   font-size: 20px;
     @include mobile {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
