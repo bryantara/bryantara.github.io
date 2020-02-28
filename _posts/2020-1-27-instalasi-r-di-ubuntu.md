@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instalasi R di Ubuntu
+title: Instalasi R dan RStudio di Ubuntu
 categories: data
 city: Depok
 ---
