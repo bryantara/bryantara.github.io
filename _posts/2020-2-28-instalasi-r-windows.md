@@ -5,7 +5,7 @@ categories: data
 city: Depok
 ---
 
-Secara prinsip, langkah menginstal R dan RStudio di Windows mirip dengan apa yang tertulis di [artikel instalasi untuk Ubuntu](https://bryantara.com/instalasi-r-di-ubuntu/). Kita perlu mengunduh dua program, yaitu R dan RStudio.
+Secara prinsip, langkah menginstal R dan RStudio di Windows mirip dengan apa yang tertulis di [artikel instalasi untuk Ubuntu](https://bryantara.com/instalasi-r-di-ubuntu/). Kita perlu menginstal R terlebih dulu, kemudian dilanjutkan menginstal RStudio.
 
 ### Instalasi R
 1. Kunjungi situs [CRAN](https://cran.r-project.org/)
