@@ -2,7 +2,7 @@
 layout: page
 permalink: /latest/
 ---
-![Gunung Batu, Lembang](https://raw.githubusercontent.com/bryantara/bryantara.github.io/master/images/vecawat.png)
+![pesawat kertas](https://raw.githubusercontent.com/bryantara/bryantara.github.io/master/images/pswt.png)
 Yang baru di bryantara.com:
 <div class="entry">
   {% for post in site.posts limit:2 %}
