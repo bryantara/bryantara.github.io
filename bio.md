@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fauzan Bryantara
-permalink: /fauzan/
+permalink: /bio/
 ---
 
 <img src="https://66.media.tumblr.com/avatar_dea2ae3ffe9b_128.pnj"
