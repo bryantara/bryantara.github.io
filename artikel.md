@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /kanal/
+permalink: /artikel/
 ---
 ![Gunung Batu, Lembang](https://raw.githubusercontent.com/bryantara/bryantara.github.io/master/images/gunung-batu-lembang.jpg)
 Selamat datang di bryantara.com! _Monggo_ dinikmati kontennya.
