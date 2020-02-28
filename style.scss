@@ -328,7 +328,7 @@ ul.b {
 
 .footer {
 	@include mobile {
-		font-size: 12px; margin-top: -35px;
+		font-size: 12px; margin: 10px 0;
 }
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
