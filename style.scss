@@ -321,7 +321,9 @@ list-style: none;
 }
 
 ul.b {
-  list-style-type: square; margin-left: 15px;
+  list-style-type: square; 
+  text-align: center;
+  list-style: inside;
 }
 
 .footer {
