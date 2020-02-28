@@ -10,4 +10,4 @@ Yang baru di bryantara.com:
   {% endfor %}
 </div>
 
-<a href="https://bryantara.com/artikel">📁 arsip...</a>
+📁 <a href="https://bryantara.com/artikel">arsip...</a>
