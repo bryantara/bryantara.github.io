@@ -3,9 +3,10 @@ layout: page
 permalink: /latest/
 ---
 
-<div class="depan">
+<div class="entry">
   {% for post in site.posts limit:2 %}
-      <li>{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </div>
+<p>:o</>
 📂 lihat <a href="https://bryantara.com/artikel">arsip...</a> yo
