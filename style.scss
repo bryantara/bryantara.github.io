@@ -23,6 +23,9 @@ body {
   letter-spacing:-0.072px;
   line-height: 31px;
   color: #000000d6;
+    @include mobile {
+    font-size: 16px;
+  }
 }
 
 .container {
@@ -51,14 +54,23 @@ h1 {
   a {
     color: inherit;
   }
+    @include mobile {
+    font-size: 23px;
+  }
 }
 
 h2 {
   font-size: 24px;
+    @include mobile {
+    font-size: 20px;
+  }
 }
 
 h3 {
   font-size: 20px;
+    @include mobile {
+    font-size: 18px;
+  }
 }
 
 h4 {
