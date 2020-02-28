@@ -315,6 +315,7 @@ li {
 
 .entry li span{
 	@include mobile {
+    display: none;
     visibility: hidden;}
 }
 
