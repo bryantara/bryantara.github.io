@@ -10,4 +10,4 @@ Yang baru di bryantara.com:</p>
       <ul class="b"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></ul>
   {% endfor %}
 </div>
-<p style="text-align:center">📄 lihat <a href="https://bryantara.com/artikel">arsip.</a></p>
+<p style="text-align:center">lihat <a href="https://bryantara.com/artikel">arsip &#187;</a></p>
