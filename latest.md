@@ -8,4 +8,4 @@ permalink: /latest/
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </div>
-<p>:o</>
+<p>👉 selengkapnya di [arsip](https://bryantara.com/artikel).<p>
