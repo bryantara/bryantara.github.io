@@ -3,7 +3,7 @@ layout: page
 permalink: /kanal/
 ---
 ![Gunung Batu, Lembang](https://raw.githubusercontent.com/bryantara/bryantara.github.io/master/images/gunung-batu-lembang.jpg)
-Halo, selamat menikmati konten bryantara.com ☕
+Selamat datang di bryantara.com! _Monggo_ dinikmati kontennya ☕
 
 <h3>Kumpulan Esai</h3>
 {% for post in site.categories.esai %}
