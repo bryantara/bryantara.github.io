@@ -2,7 +2,7 @@
 layout: page
 permalink: /latest/
 ---
-![pesawat kertas](https://raw.githubusercontent.com/bryantara/bryantara.github.io/master/images/pswt.png)
+![mesin ketik Photo by Florian Klauer on Unsplash](https://raw.githubusercontent.com/bryantara/bryantara.github.io/b1765855563fb2e9effcedbea5a6d37d067c99d2/images/ketik.png)
 Yang baru di bryantara.com:
 <div class="entry">
   {% for post in site.posts limit:2 %}
