@@ -15,8 +15,8 @@ Secara prinsip, langkah menginstal R dan RStudio di Windows mirip dengan apa yan
 
 ### Instalasi RStudio
 1. Kunjungi situs [RStudio](https://rstudio.com/products/rstudio/download/)
-2. Pada bagian _choose your version_, pilih RStudio Desktop Open Source License Free
-3. Klik tombol _Download_, lalu klik _Download RStudio for Windows_.
+2. Pada bagian _choose your version_, pilih _RStudio Desktop Open Source License Free_
+3. Klik tombol _Download_, lalu klik _Download RStudio for Windows_
 4. Install RStudio setelah selesai mengunduh file tersebut
 
 Jika dua langkah di instalasi di atas sudah dilakukan, maka sekarang kita sudah bisa menjalankan R menggunakan RStudio.
