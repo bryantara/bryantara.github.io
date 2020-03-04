@@ -137,6 +137,7 @@ img {
 
 .date {
   color: $gray;
+  margin-bottom: 30px;
 }
 
 // Specify the color of the selection
@@ -332,6 +333,15 @@ ul.b {
 		font-size: 12px;
 }
 }
+
+.comment-box>.header .left h2 {
+    padding-right: 10px;
+    font-size: 20px;
+    float: left;
+    display: none;
+}
+
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
