@@ -24,10 +24,12 @@ Sebagai awalan, tidak perlu memusingkan istilah-istilah di atas. Jika sering ber
 
 Mari kita memulai menjalankan perintah sederhana di RStudio. Kita akan melakukannya di kuadran 3. Pada baris paling bawah, kita akan menjumpai tanda > (kurang dari). Baris ini disebut dengan _command line_ atau baris perintah, sedangkan kode yang kita tulis pada baris perintah ini disebut dengan _command_ atau perintah.
 
-Misal, kita mengetik perintah 1+2 pada baris perintah. Maka akan muncul sebagai berikut:
+Misal, kita mengetik perintah 2+3 pada baris perintah di kuadaran 3. Maka akan muncul sebagai berikut:
 
-> 1+2
-[1] 3
-
+```
+> 2+3
+[1] 5
+```
+Mungkin ada yang bertanya mengapa ada [1] sebelum hasil penjumlahan angka 3. Tanda tersebut menunjukkan nilai pertama dari hasil perintah yang kita buat. Contoh lain, misal kita mengetik 1:
 
 Referensi: [BasicBasics 1](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-1/), [2 The Very Basics](https://rstudio-education.github.io/hopr/basics.html), [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
