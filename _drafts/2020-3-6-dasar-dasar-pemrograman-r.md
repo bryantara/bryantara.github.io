@@ -39,7 +39,13 @@ Mungkin ada yang bertanya mengapa ada [1] sebelum hasil penjumlahan angka 3. Tan
 [20]  69  70  71  72  73  74  75  76  77  78  79  80  81  82  83  84  85  86  87
 [39]  88  89  90  91  92  93  94  95  96  97  98  99 100
 ```
-Perintah di atas menghasilkan 51 nilai, dengan nilai pertama [1] adalah 50, nilai kedua puluh [00] adalah 69, dan nilai ketiga puluh sembilan [39] adalah 88. Itulah fungsi dari angka-angka di dalam tanda kurung siku tersebut.
+
+Perintah di atas menghasilkan 51 nilai yang terbagi dalam tiga baris, dengan 
+- nilai pertama [1] adalah 50
+- nilai kedua puluh [20] adalah 69
+- nilai ketiga puluh sembilan [39] adalah 88. 
+
+Itulah fungsi dari angka-angka di dalam tanda kurung siku tersebut.
 
 
 
