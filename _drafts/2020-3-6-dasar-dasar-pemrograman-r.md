@@ -5,7 +5,8 @@ categories: data
 city: Depok
 ---
 
-Setelah selesai menginstal RStudio, mari kita mengenal alat yang akan kita gunakan ini. 
+Setelah selesai menginstal RStudio, mari kita mengenal bagian-bagian dari alat yang akan kita pergunakan ini. 
+
 ![Kuadran RStudio](https://raw.githubusercontent.com/bryantara/bryantara.github.io/master/images/kuadran-r.jpg)
 
 ### Tampilan RStudio
