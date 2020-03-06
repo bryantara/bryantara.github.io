@@ -31,6 +31,16 @@ Misal, kita mengetik perintah 2+3 pada baris perintah di kuadaran 3. Maka akan m
 > 2+3
 [1] 5
 ```
-Mungkin ada yang bertanya mengapa ada [1] sebelum hasil penjumlahan angka 3. Tanda tersebut menunjukkan nilai pertama dari hasil perintah yang kita buat. Contoh lain, misal kita mengetik 1:
+Mungkin ada yang bertanya mengapa ada [1] sebelum hasil penjumlahan angka 3. Tanda tersebut menunjukkan nilai pertama dari hasil perintah yang kita buat. Contoh lain, misal kita mengetik 50:100 untuk menghasilkan deretan bilangan bulat dari 50 sampai 100.
+
+```
+> 50:100
+ [1]  50  51  52  53  54  55  56  57  58  59  60  61  62  63  64  65  66  67  68
+[20]  69  70  71  72  73  74  75  76  77  78  79  80  81  82  83  84  85  86  87
+[39]  88  89  90  91  92  93  94  95  96  97  98  99 100
+```
+Perintah di atas menghasilkan 51 nilai, dengan nilai pertama [1] adalah 50, nilai kedua puluh [00] adalah 69, dan nilai ketiga puluh sembilan [39] adalah 88. Itulah fungsi dari angka-angka di dalam tanda kurung siku tersebut.
+
+
 
 Referensi: [BasicBasics 1](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-1/), [2 The Very Basics](https://rstudio-education.github.io/hopr/basics.html), [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
