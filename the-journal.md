@@ -1,5 +1,6 @@
 ---
 layout: page
+title: The Journal
 permalink: /the-journal/
 ---
 ![The Journal](https://raw.githubusercontent.com/bryantara/bryantara.github.io/master/images/THE%20JOURNAL.JPG)
