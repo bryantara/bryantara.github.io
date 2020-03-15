@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bermain Api
-categories: esai
+categories: personal
 city: Depok
 ---
 ![Bermain Api](https://raw.githubusercontent.com/bryantara/bryantara.github.io/master/images/bermainapi.jpeg)
