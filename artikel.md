@@ -12,7 +12,7 @@ permalink: /artikel/
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 
-<h3>👨‍💻 Personal</h3>
+<h3>💬 Personal</h3>
 {% for post in site.categories.personal %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
