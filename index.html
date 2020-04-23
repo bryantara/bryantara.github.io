@@ -2,12 +2,12 @@
 layout: default
 ---
 <h1>Fauzan Bryantara</h1>
-<p style="text-align:left">
+<p>
 Selamat datang di situs personal Fauzan Bryantara!<br/>
 Yang baru di bryantara.com:</p>
-<p style="text-align:left">
+<p>
   {% for post in site.posts limit:3 %}
       <ul class="b"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></ul>
   {% endfor %}
 </p>
-<p style="text-align:left">lihat <a href="https://bryantara.com/blog">arsip blog <span class="silaw">»</span></a></p>
+<p>lihat <a href="https://bryantara.com/blog">arsip blog <span class="silaw">»</span></a></p>
