@@ -5,8 +5,8 @@ layout: default
 <p style="text-align:left">
 Selamat datang di situs personal Fauzan Bryantara!<br/>
 Yang baru di bryantara.com:</p>
-<p>
-  {% for post in site.posts limit:2 %}
+<p style="text-align:left">
+  {% for post in site.posts limit:3 %}
       <ul class="b"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></ul>
   {% endfor %}
 </p>
