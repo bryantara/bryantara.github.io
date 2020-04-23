@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /artikel/
+title: Blog - Fauzan Bryantara
+permalink: /blog/
 ---
 <h3>📈 Pengolahan Data</h3>
 {% for post in site.categories.data %}
