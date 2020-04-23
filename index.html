@@ -5,9 +5,9 @@ layout: default
 <p style="text-align:left">
 Selamat datang di situs personal Fauzan Bryantara!<br/>
 Yang baru di bryantara.com:</p>
-<div class="entry">
+<p>
   {% for post in site.posts limit:2 %}
       <ul class="b"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></ul>
   {% endfor %}
-</div>
+</p>
 <p style="text-align:left">lihat <a href="https://bryantara.com/blog">arsip blog <span class="silaw">»</span></a></p>
