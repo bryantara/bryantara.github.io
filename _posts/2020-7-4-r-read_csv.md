@@ -4,7 +4,7 @@ title: Impor CSV di R Menggunakan read_csv
 categories: data
 city: Depok
 ---
-Jika kita mengambil kelas [pemrograman R](https://www.coursera.org/learn/r-programming) di Coursera, pasti akan menjumpai fungsi read_csv untuk mengimpor file _comma-separated values_ (CSV). Fungsi tersebut berbeda dengan read.csv yang biasanya sudah tersedia di R (perhatikan perbedaan antara tanda _ dan .). 
+Jika kita mengambil kelas [pemrograman R](https://www.coursera.org/learn/r-programming) di Coursera, pasti akan menjumpai fungsi read_csv untuk mengimpor file _comma-separated values_ (CSV). Fungsi tersebut berbeda dengan read.csv yang biasanya sudah tersedia di R (perhatikan perbedaan antara tanda _underscore_ dan _dot_). 
 
 Kelebihan read_csv dibanding read.csv diantaranya dapat memuat file lebih cepat, dapat menjadikan kolom sebagai _lists_ , dll ([lihat selengkapnya](https://medium.com/r-tutorials/r-functions-daily-read-csv-3c418c25cba4)).
 
