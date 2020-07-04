@@ -8,8 +8,14 @@ Jika kita mengambil kelas [pemrograman R](https://www.coursera.org/learn/r-progr
 
 Kelebihan `read_csv` dibanding `read.csv` diantaranya dapat memuat file lebih cepat, dapat menjadikan kolom sebagai _lists_ , [dan lainnya](https://medium.com/r-tutorials/r-functions-daily-read-csv-3c418c25cba4).
 
-`read_csv` merupakan bagian dari paket `readr` yang merupakan bagian dari `tidyverse`, jadi untuk menggunakannya kita panggil _library_ `tidyverse` terlebih dahulu di _console_ R dengan:
+`read_csv` merupakan bagian dari paket `readr` yang merupakan bagian dari `tidyverse`, jika belum memasang paket `tidyverse`, install terlebih dahulu dengan:
 
-  `library(tidyverse)`
+`install.packages("tidyverse")`
 
-Jika sudah, `read_csv` siap digunakan. Berbagai contoh penggunaannya ada di [link ini](https://r4ds.had.co.nz/data-import.html).
+Setelah `tidyverse` terpasang, panggil _library_ `readr` untuk dijalankan di sesi ini:
+
+  `library(readr)`
+
+Jika sudah, `read_csv` siap digunakan. 
+
+Berbagai contoh penggunaannya ada di [link ini](https://r4ds.had.co.nz/data-import.html).
