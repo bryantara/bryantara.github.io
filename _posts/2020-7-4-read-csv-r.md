@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mengimpor File CSV di R Menggunakan read_csv
+title: Impor CSV di R Menggunakan read_csv
 categories: data
 city: Depok
 ---
