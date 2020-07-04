@@ -8,7 +8,7 @@ Jika kita mengambil kelas [pemrograman R](https://www.coursera.org/learn/r-progr
 
 Kelebihan read_csv dibanding read.csv diantaranya dapat memuat file lebih cepat, dapat menjadikan kolom sebagai _lists_ , dll ([lihat selengkapnya](https://medium.com/r-tutorials/r-functions-daily-read-csv-3c418c25cba4)).
 
-read_csv merupakan bagian dari paket readr yang merupakan bagian dari tidyverse, jadi untuk memakainya kita panggil _library_ tidyverse terlebih dahulu di _console_ R menggunakan:
+read_csv merupakan bagian dari paket readr yang merupakan bagian dari tidyverse, jadi untuk menggunakannya kita panggil _library_ tidyverse terlebih dahulu di _console_ R dengan:
 
   `library(tidyverse)`
 
