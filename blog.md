@@ -3,7 +3,7 @@ layout: page
 title: Blog - Fauzan Bryantara
 permalink: /blog/
 ---
-_Lihat juga: [ekonomikus.org](https://ekonomikus.org)_
+_Lihat juga:_ [ekonomikus.org](https://ekonomikus.org)
 
 <h3>📈 Pengolahan Data</h3>
 {% for post in site.categories.data %}
