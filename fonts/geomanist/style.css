@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Geomanist';
+    src: local('Geomanist Light'), local('Geomanist-Light'),
+        url('Geomanist-Light.woff2') format('woff2'),
+        url('Geomanist-Light.woff') format('woff'),
+        url('Geomanist-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
