@@ -4,7 +4,8 @@
 //
 // IMPORTS
 //
-
+@import url("fonts/geomanist/stylesheet.css")
+@import url("fonts/ibmplexserif/stylesheet.css")
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
@@ -19,7 +20,7 @@ html {
 
 body {
   background: #fcfcfc;
-  font: 18px/1.4 'Literata', $georgia, serif;
+  font: 18px/1.4 'IBM Plex Serif', $georgia, serif;
   letter-spacing:-0.072px;
   line-height: 31px;
   color: #000000d6;
@@ -36,9 +37,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Open Sans', $helveticaNeue, sans-serif;
+  font-family: 'Geomanist', $helveticaNeue, sans-serif;
   color: $darkerGray;
-  font-weight: bold;
+  font-weight: 300;
   letter-spacing:-0.072px;
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -214,7 +215,7 @@ img {
   margin: 0;
   color: #000;
   cursor: pointer;
-  font-family: 'Open Sans', $helveticaNeue;
+  font-family: 'Geomanist', $helveticaNeue;
   font-weight: bold;
   font-size: 28px;
   letter-spacing:-0.5px;
@@ -233,7 +234,7 @@ img {
 nav {
   float: right;
   margin-top: 13px; // @TODO: Vertically middle align
-  font-family: 'Open Sans', $helveticaNeue;
+  font-family: 'Geomanist', $helveticaNeue;
   font-size: 18px;
   color: $black;
 
