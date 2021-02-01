@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog - Fauzan Bryantara
+title: "/blog"
 permalink: /blog/
 ---
 _Monggo_, silahkan menikmati tulisan di blog saya...
