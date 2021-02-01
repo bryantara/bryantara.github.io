@@ -3,8 +3,7 @@ layout: page
 title: "/blog"
 permalink: /blog/
 ---
-_Monggo_, silahkan menikmati tulisan di blog saya...
-
+Intip juga tumblr saya [di sini](https://bryantara.tumblr.com).
 <h3>📈 Pengolahan Data</h3>
 {% for post in site.categories.data %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
