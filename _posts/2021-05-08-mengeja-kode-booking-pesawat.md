@@ -8,11 +8,13 @@ Siang tadi, saya menelpon _call center_ Lion Air. Ini adalah pertama kalinya say
 
 Namun, sepertinya operator yang saya telpon berbicara dengan istilah yang aneh bagi telinga saya. Alpha, Echo,...., dst.
 
-Untungnya speaker ponsel saya nyalakan, sehingga istri saya langsung menyahut. Ia meneruskan kode lengkap menggunakan istilah aneh tadi. Akhirnya, operator paham susunan kode booking kami. Usut punya usut, ternyata itu adalah cara mengeja alfabet di dunia penerbangan. _"Berguna juga ya ternyata ngafalin,"_ kata istri saya sambil tersenyum.
+Untungnya speaker ponsel saya nyalakan, sehingga istri saya langsung menyahut. Ia meneruskan kode lengkap menggunakan istilah aneh tadi. Akhirnya, operator paham susunan kode booking kami. 
+
+Usut punya usut, ternyata itu adalah cara mengeja alfabet di dunia penerbangan. _"Berguna juga ya ternyata ngafalin,"_ kata istri saya sambil tersenyum.
 
 Setelah ngobrol singkat, saya lalu _googling_. Nama istilahnya adalah: NATO Phonetic Alphabet, mulai digunakan oleh organisasi penerbangan sipil internasional (ICAO) sejak tahun 1956.
 
-Isi dari NATO Phonetic Alphabet disusun sedemikian rupa untuk menghindari kesalahpahaman saat berbicara melalui sambungan telepon (yang kadang kualitas sinyalnya buruk). Sehingga, meski diucapkan menggunakan bahasa atau dialek apapun, lawan bicara masih bisa memahaminya.
+Isi dari NATO Phonetic Alphabet disusun sedemikian rupa untuk menghindari kesalahpahaman saat berbicara melalui sambungan telepon (yang kadang kualitas sinyalnya buruk). Dengan demikian, meski diucapkan menggunakan bahasa atau dialek apapun, lawan bicara bisa memahaminya.
 
 Berikut daftar lengkapnya:
 
