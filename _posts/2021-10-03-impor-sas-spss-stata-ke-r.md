@@ -14,6 +14,7 @@ Setelah haven terinstal, tinggal panggil library haven,
 
 kemudian ketikkkan format data apa yang ingin diimpor. Misal:
 
+```
 # SAS
 read_sas("namafile.sas7bdat")
 
@@ -22,7 +23,8 @@ read_sav("namafile.sav")
 
 # Stata
 read_dta("namafile.dta")
+```
 
 Mudah, kan?
 
-Referensi: https://haven.tidyverse.org/ diakses pada 3 Oktober 2021
+`Referensi: https://haven.tidyverse.org/ diakses pada 3 Oktober 2021`
