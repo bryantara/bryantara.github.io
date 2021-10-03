@@ -51,8 +51,6 @@ Berikut daftar lengkapnya:
 
 Jadi, misalkan kode booking pesawat kita adalah ACEGIK, tinggal sebut saja _Alfa Charlie Echo Golf India Kilo._ Dijamin, operator maskapai akan langsung memahaminya. 
 
-```
-Referensi kode:
-https://www.worldometers.info/languages/nato-phonetic-alphabet/
-https://en.wikipedia.org/wiki/NATO_phonetic_alphabet 
-```
+  Referensi kode:
+  https://www.worldometers.info/languages/nato-phonetic-alphabet/
+  https://en.wikipedia.org/wiki/NATO_phonetic_alphabet 
