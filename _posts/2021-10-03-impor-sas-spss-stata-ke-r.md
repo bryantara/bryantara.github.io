@@ -12,16 +12,13 @@ Setelah haven terinstal, tinggal panggil library haven,
 
 `library(haven)`
 
-kemudian ketikkkan format data apa yang ingin diimpor. Misal:
+kemudian ketikkkan format sesuai data apa yang ingin diimpor. Misal:
 
 ```
-# SAS
 read_sas("namafile.sas7bdat")
 
-# SPSS
 read_sav("namafile.sav")
 
-# Stata
 read_dta("namafile.dta")
 ```
 
