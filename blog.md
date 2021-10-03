@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog Fauzan Bryantara"
+title: "#blog"
 permalink: /blog/
 ---
 Intip juga tumblr saya [di sini](https://bryantara.tumblr.com).
