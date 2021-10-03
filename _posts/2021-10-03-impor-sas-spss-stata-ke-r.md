@@ -24,4 +24,4 @@ read_dta("namafile.dta")
 
 Mudah, kan?
 
-`Referensi: https://haven.tidyverse.org/ diakses pada 3 Oktober 2021`
+`Referensi: haven.tidyverse.org diakses 3/10/2021`
