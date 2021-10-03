@@ -4,7 +4,7 @@ title: Impor Data dari SAS, SPSS, atau Stata ke R
 categories: data
 city: Depok
 ---
-Buat teman-teman yang ingin mengimpor data dari format SAS, SPSS, atau Stata ke R, dapat dilakukan secara mudah menggunakan _packages_ haven. Cukup ketikkan perintah: 
+Mengimpor data dari format SAS, SPSS, atau Stata ke R, dapat dilakukan secara mudah menggunakan _packages_ haven. Cukup ketikkan perintah: 
 
 `install.packages("haven")`
 
