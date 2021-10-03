@@ -14,13 +14,13 @@ Setelah haven terinstal, tinggal panggil library haven,
 
 kemudian ketikkkan format sesuai data apa yang ingin diimpor. Misal:
 
-`
+~~~
 read_sas("namafile.sas7bdat")
 
 read_sav("namafile.sav")
 
 read_dta("namafile.dta")
-`
+~~~
 
 Mudah, kan?
 
