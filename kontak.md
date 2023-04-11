@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kontak - Fauzan Bryantara
+title: Kontak
 permalink: /kontak/
 ---
 
