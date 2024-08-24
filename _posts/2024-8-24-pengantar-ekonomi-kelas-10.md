@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ekonomi Kelas 10: Kata Pengantar
+title: Ekonomi Kelas 10 - Kata Pengantar
 categories: ekonomi-10
 city: Depok
 ---
