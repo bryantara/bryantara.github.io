@@ -21,4 +21,4 @@ Terakhir, pembelajaran ini didesain hanya sebagai suplemen atau materi tambahan 
 
 Sekian kata pengantar dari saya, mari kita mulai belajar.
 
-<a href="https://1drv.ms/b/s!AjUm4R87Qfp0jCnbjgq0sgWA6ziE?e=VDRUoP"><button type="button">Download Slide</button></a>
+<a href="https://1drv.ms/b/s!AjUm4R87Qfp0jCnbjgq0sgWA6ziE?e=VDRUoP" target="_blank"><button type="button">Download Slide</button></a>
