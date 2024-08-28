@@ -1,13 +1,13 @@
 {% capture category %}{{ page.categories | first }}{% endcapture %}
 
 {% for post in site.categories[category] limit: 5 %}
-    <li>
+    <ul>
         <p>
             <a href="{{ post.url | relative_url }}">
                 {{ post.title | escape }}
             </a>
         </p>
-    </li>
+    </ul>
 {% endfor %}
 
 {% if site.disqus %}
