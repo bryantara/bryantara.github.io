@@ -20,3 +20,5 @@ Dalam pelajaran ini, kita akan mengacu pada Kurikulum Merdeka, jadi silakan guna
 Terakhir, pembelajaran ini didesain hanya sebagai suplemen atau materi tambahan pelajaran, sehingga tidak dapat menggantikan proses belajar tatap muka di sekolah teman-teman.
 
 Sekian kata pengantar dari saya, mari kita mulai belajar.
+
+[Download Slide Kata Pengantar](https://1drv.ms/b/s!AjUm4R87Qfp0jCnbjgq0sgWA6ziE?e=VDRUoP)
