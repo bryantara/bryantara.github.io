@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fauzan Bryantara
+title: Tentang Saya
 permalink: /penulis/
 ---
 
