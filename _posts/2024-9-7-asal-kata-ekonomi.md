@@ -17,4 +17,4 @@ Seiring berkembangnya pengetahuan, arti ekonomi  tersebut tidak dapat menjelaska
 
 **Referensi:**
 - Leshem, Dotan. 2016. "Retrospectives: What Did the Ancient Greeks Mean by Oikonomia?" Journal of Economic Perspectives, 30 (1): 225–38.
-- Rahardja, Prathama dan Wiji Purwanta. 2016. "Eksplorasi Nalar Siswa Ekonomi untuk Siswa SMA/MA Kelas X. Edisi Kedua. Bandung: Yrama Widya.
+- Rahardja, Prathama dan Wiji Purwanta. 2016. "Eksplorasi Nalar Siswa Ekonomi untuk Siswa SMA/MA Kelas X". Edisi Kedua. Bandung: Yrama Widya.
