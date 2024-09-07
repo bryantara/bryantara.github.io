@@ -4,9 +4,10 @@ title: Asal Kata Ekonomi
 categories: ekonomi-10
 city: Depok
 ---
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Pu_aIK8oCiM?si=-jTfb85-0otyL6AF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Istilah ekonomi berasal dari bahasa Yunani yaitu oikonomia (οικονομία). Oikonomia sendiri terdari dari dua kata, yakni oikos dan nomos.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Pu_aIK8oCiM?si=-jTfb85-0otyL6AF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Oikos berarti rumah tangga, sedangkan nomos dapat berarti berarti aturan atau manajemen.
 
