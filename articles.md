@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Articles"
+title: "Bryantara.com / Articles"
 permalink: /articles/
 ---
 coming soon...
