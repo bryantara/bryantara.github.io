@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "bryantara.com/articles"
-permalink: /articles/
+title: "Indonesia Updates"
+permalink: /indonesia/
 ---
 coming soon...
