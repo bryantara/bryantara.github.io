@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "/ECON"
+title: "#econ"
 permalink: /econ/
 ---
 <h3>Coming soon...</h3>
