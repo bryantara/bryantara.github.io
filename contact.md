@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Kontak
-permalink: /kontak/
+title: Contact
+permalink: /contact/
 ---
 
-Saya dapat dihubungi melalui:
+You can contact me through:
 
 Email: bryantara [at] live.com
 <br/>Telegram: [@bryantara](https://t.me/bryantara)
