@@ -10,4 +10,4 @@ A prototype reactor, to be delivered from South Korea in 2028, will be part of a
 
 ThorCon Power Indonesia is awaiting approval for the regional spatial planning regulation. 
 
-(via [The Jakarta Post](https://www.thejakartapost.com/business/2024/12/16/ri-to-build-first-nuclear-power-plant-in-bangka-belitung.html)) 
+(via [The Jakarta Post](https://www.thejakartapost.com/business/2024/12/16/ri-to-build-first-nuclear-power-plant-in-bangka-belitung.html), [Kompas](https://regional.kompas.com/read/2024/12/13/085708678/indonesia-bangun-reaktor-nuklir-pembangkit-listrik-pertama-di-pulau-kelasa)) 
