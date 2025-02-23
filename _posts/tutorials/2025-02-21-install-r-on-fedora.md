@@ -7,7 +7,7 @@ city: Depok
 
 To install R on Fedora, follow these steps:
 
-1. Open your terminal.
+1. Open the terminal.
 
 2. Type the following command to install R:
    ```bash
